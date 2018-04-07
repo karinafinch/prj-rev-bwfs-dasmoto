@@ -1,0 +1,33 @@
+header {
+  background-image: url("/Users/karinafinch/Desktop/projects/Dasmotos/resources/images/pattern.jpeg");
+}
+
+#brushes h2 {
+  background-color: mediumspringgreen;
+}
+
+#frames h2 {
+  background-color: lightcoral;
+}
+
+#paint h2 {
+  background-color: skyblue;
+}
+
+h1, h2, a {
+  font-family: Helvetica;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 100px;
+  color: khaki;
+}
+h2 {
+  font-size: 32px;
+  color: white;
+}
+
+a {
+  color: blue;
+}
